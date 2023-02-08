@@ -1,0 +1,17 @@
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\bin\Debug\net6.0-windows\Note_Taking_App.exe
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\bin\Debug\net6.0-windows\Note_Taking_App.deps.json
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\bin\Debug\net6.0-windows\Note_Taking_App.runtimeconfig.json
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\bin\Debug\net6.0-windows\Note_Taking_App.dll
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\bin\Debug\net6.0-windows\Note_Taking_App.pdb
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.csproj.AssemblyReference.cache
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.Form1.resources
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.csproj.GenerateResource.cache
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.AssemblyInfoInputs.cache
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.AssemblyInfo.cs
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.dll
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\refint\Note_Taking_App.dll
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.pdb
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\Note_Taking_App.genruntimeconfig.cache
+C:\Users\HP USER\source\repos\Note_Taking_App\Note_Taking_App\obj\Debug\net6.0-windows\ref\Note_Taking_App.dll

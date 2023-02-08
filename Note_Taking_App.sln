@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Note_Taking_App", "Note_Taking_App\Note_Taking_App.csproj", "{DF56C7B6-1F29-4ABC-B195-D414302EC4AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF56C7B6-1F29-4ABC-B195-D414302EC4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF56C7B6-1F29-4ABC-B195-D414302EC4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF56C7B6-1F29-4ABC-B195-D414302EC4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF56C7B6-1F29-4ABC-B195-D414302EC4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8EDBA4-993F-429C-8FB0-74A582F56F67}
+	EndGlobalSection
+EndGlobal
